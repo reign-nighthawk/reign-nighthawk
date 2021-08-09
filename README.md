@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey, 𝑰'𝒎 ✨ tangcx ✨!
+## Hey, I'm ✨ Tangcx ✨!
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=reign-nighthawk&show_icons=true">](https://github-readme-stats.vercel.app/api?username=reign-nighthawk)
 
