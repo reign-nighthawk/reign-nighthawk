@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 A web developer from China. 
 
--   :hammer_and_pick: JavaScript/React/Vue, a little Java
--   🌱  I’m currently learning Flutter
--   :pencil2: MacOS / VSCode / Oh My Zsh / Chrome
--   🔭  I’m currently working on Weixin Miniprogram
--   😄  Currently Program:cx-common
--   📫  Reach me ✉️ [Email](mailto:tangcx720@qq.com)
+-   :hammer_and_pick:&nbsp;JavaScript/React/Vue, a little Java
+-   🌱 &nbsp;I’m currently learning Flutter
+-   :pencil2:&nbsp;MacOS / VSCode / Oh My Zsh / Chrome
+-   🔭 &nbsp;I’m currently working on Weixin Miniprogram
+-   😄 &nbsp;Currently Program:cx-common
+-   📫 &nbsp;Reach me ✉️ [Email](mailto:tangcx720@qq.com)
 
 ---
 <!--
