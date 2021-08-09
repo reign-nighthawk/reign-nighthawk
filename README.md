@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=reign-nighthawk&show_icons=true">](https://github-readme-stats.vercel.app/api?username=reign-nighthawk)
 
-A web developer from china. 
+A web developer from China. 
 
--   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
--   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
--   :pencil2: Arch Linux / i3-wm / Oh My Zsh / NeoVim / Firefox
+-   :hammer_and_pick: JavaScript/React/Vue, a little bit Java
+-   🌱: I’m currently learning Flutter
+-   :pencil2: MacOS / VSCode / Oh My Zsh / Chrome
 -   :man_scientist: [INTP](https://www.16personalities.com/intp-personality) personality
 -   :man: Pronouns: he/him
 -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
