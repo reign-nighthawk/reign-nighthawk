@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=reign-nighthawk&show_icons=true">](https://github-readme-stats.vercel.app/api?username=reign-nighthawk)
 
-I'm Y**ou** Y**u**f**an**, a freshman at THU.
+A web developer from china. 
 
 -   :hammer_and_pick: C++/Qt/GitHub Actions, a little bit Python/JavaScript
 -   :package: Building [CP Editor](https://github.com/cpeditor/cpeditor) and more
