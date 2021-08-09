@@ -24,7 +24,7 @@ A web developer from China.
 -   :pencil2: MacOS / VSCode / Oh My Zsh / Chrome
 -   👨‍💻 I’m currently working on Weixin Miniprogram
 -   ⚡ Currently Program:cx-common
--   📫 How to reach me ✉️ [Email](mailto:tangcx720@qq.com)
+-   ✉️ How to reach me [Email](mailto:tangcx720@qq.com)
 
 ---
 <p>
