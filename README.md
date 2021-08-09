@@ -23,7 +23,7 @@ A web developer from China.
 -   🌱 I’m currently learning Flutter
 -   :pencil2: MacOS / VSCode / Oh My Zsh / Chrome
 -   🔭 I’m currently working on Weixin Miniprogram
--   😄 Currently Program:cx-common
+-   ⚡ Currently Program:cx-common
 -   📫 Reach me ✉️ [Email](mailto:tangcx720@qq.com)
 
 ---
