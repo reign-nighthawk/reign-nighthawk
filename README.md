@@ -27,7 +27,8 @@ I'm Y**ou** Y**u**f**an**, a freshman at THU.
 -   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
 
 ---
-<img align="right" alt="GIF" src="https://github.com/reign-nighthawk/reign-nighthawk/blob/main/code.gif?raw=true" width="500" height="320" />
 <!--
+<img align="right" alt="GIF" src="https://github.com/reign-nighthawk/reign-nighthawk/blob/main/code.gif?raw=true" width="500" height="320" />
+
 ![](https://github-readme-stats.vercel.app/api?username=reign-nighthawk)
 -->
