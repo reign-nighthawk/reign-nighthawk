@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey, ouuan here! :wave: [![ ](https://cfrating.ihcr.top/?user=ouuan&style=flat-square)](https://codeforces.com/profile/ouuan)
+## Hey, 𝑰'𝒎 ✨ tangcx ✨!
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=reign-nighthawk&show_icons=true">](https://github-readme-stats.vercel.app/api?username=reign-nighthawk)
 
