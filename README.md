@@ -43,7 +43,7 @@ A web developer from China.
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
   <img alt="MiniProgram" src="https://img.shields.io/badge/-MiniProgram-%2300d96b?style=flat-square&logo=wechat&logoColor=white" />
   <img alt="uniapp" src="https://img.shields.io/badge/-uniapp-008e38?style=flat-square&logo=upcloud&logoColor=white" />
-  <img alt="taro" src="https://img.shields.io/badge/-Taro-0012bb?style=flat-square&logo=vapor&logoColor=white" />
+  <img alt="taro" src="https://img.shields.io/badge/-Taro-0012bb?style=flat-square&logo=dogecoin&logoColor=white" />
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-%239cbce2?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
