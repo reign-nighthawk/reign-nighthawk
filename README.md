@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 A web developer from China. 
 
 -   :hammer_and_pick: JavaScript/React/Vue, a little Java
--   🌱  I’m currently learning Flutter
+-   🌱          I’m currently learning Flutter
 -   :pencil2: MacOS / VSCode / Oh My Zsh / Chrome
 -   🔭  I’m currently working on Weixin Miniprogram
 -   😄  Currently Program:cx-common
