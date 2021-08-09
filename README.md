@@ -22,9 +22,9 @@ A web developer from China.
 -   :hammer_and_pick: JavaScript / React / Vue, a little Java
 -   🌱 I’m currently learning Flutter
 -   :pencil2: MacOS / VSCode / Oh My Zsh / Chrome
--   🔭 I’m currently working on Weixin Miniprogram
+-   👨‍💻 I’m currently working on Weixin Miniprogram
 -   ⚡ Currently Program:cx-common
--   📫 Reach me ✉️ [Email](mailto:tangcx720@qq.com)
+-   📫 How to reach me ✉️ [Email](mailto:tangcx720@qq.com)
 
 ---
 <p>
